@@ -1,0 +1,47 @@
+
+/**{
+    background-color: aqua;
+    color: black;
+}
+
+div{
+    background-color:hotpink;
+}
+h1{
+    background-color: aquamarine;
+}
+p{
+    background-color: mediumorchid;
+}
+span{
+    background-color: chartreuse;
+}
+
+#green{
+    color: green;
+}
+#pink{
+    color: pink;
+}
+#car{
+    color: aquamarine;
+}*/
+
+.bg_aqua{
+    background-color: aqua;
+}
+.bg_pink{
+    background-color: pink;
+}
+.size_big{
+    width: 300px;
+    height: 300px;
+}
+.size_med{
+    width: 150px;
+    height: 150px;
+}
+.size_small{
+    width: 70px;
+    height: 700px;
+}

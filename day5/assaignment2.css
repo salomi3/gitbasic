@@ -1,0 +1,5 @@
+body{
+    width: 50%;
+    height: 100vh;
+    background-image: radial-gradient(circle at top,orange,yellow,salmon,rgb(173, 52, 173),transparent);
+}

@@ -1,0 +1,46 @@
+fieldset{
+    width: 350%;
+    height: 250px;
+    background-image:url(../../asset/image/hyderabad-india-4th-april-2019-260nw-1478433068.webp), radial-gradient(circle at top left,purple,red);
+    background-size: 50%,100% 100%;
+    background-repeat:no-repeat ;
+    background-position: center,center;
+    border: 10px groove black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black,inset -10px -10px 5px,rgb(150,0,0);
+}
+fieldset{
+    background-size: 40%,100% 100%;
+    background-position: left center,center;
+}
+legend{
+    background-color: orangered;
+    width: 150px;
+    height: 30px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+h1{
+    width: 220px;
+    color: rgba(255,255,255,0);
+    /* float: right; */
+    /* background-color: yellow; */
+}
+p{
+    /* background-color: yellow; */
+    color: rgba(224,255,255,0);
+    /* width: 150px; */
+    /* float: right; */
+}
+#container{
+    width: 60%;
+    height: 100%;
+    float: right;
+}
+fieldset:hover h1{
+    color: white;
+}
+fieldset:hover p{
+    color:lavender;
+}
+

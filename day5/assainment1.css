@@ -1,0 +1,6 @@
+body{
+    width: 50%;
+    height: 100vh;
+    background-image: radial-gradient(circle at left,white 0% 50%,transparent 50% 100%),url(../../../asset/image/157580-004-FFB75F13.webp);
+    background-size: 100% 100%;
+}

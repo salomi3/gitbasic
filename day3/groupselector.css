@@ -1,0 +1,27 @@
+span,#container{
+    color: red;
+}
+
+#a{
+    color: orange;
+}
+span,#a,#container{
+    width: 300px;
+    height: 300px;
+}
+#b{
+    color: lawngreen;
+}
+#container{
+    background-color: black;
+}
+.subcontainer{
+    background-color: blue;
+}
+.heading,.subcontainer{
+    width: 150px;
+    height: 150px;
+}
+.heading{
+    color: palevioletred;
+}

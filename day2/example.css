@@ -1,0 +1,25 @@
+.bg_blue{
+    color: blue;
+}
+.bg_red{
+    color: red;
+}
+#orange{
+    color: orange;
+}
+#green{
+    color: green;
+}
+h1{
+    float: left;
+    font-size: 100PX;
+}
+#container{
+    width: 750px;
+    height: 300px;
+}
+marquee{
+    float: left;
+    width: 120px;
+    height: 500px;
+}

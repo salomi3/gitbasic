@@ -1,0 +1,66 @@
+/* #solid{
+    border-style: solid;
+    border-width: 10px;
+    border-color: aqua;
+}
+#double{
+    border-style: double;
+    border-width: 10px;
+    border-color:palevioletred;
+}
+#dotted{
+    border-style: dotted;
+    border-width: 10px;
+    border-color:lawngreen;
+}
+#dashed{
+    border-style: dashed;
+    border-width: 10px;
+    border-color:rebeccapurple;
+}
+img{
+    width: 300px;
+    border-color: yellow;
+    border-width: 10px;
+}
+#groove{
+    border-style: groove;
+}
+#ridge{
+    border-style: ridge;
+}
+#inset{
+    border-style: inset;
+}
+#outset{
+    border-style: outset;
+}
+input{
+    border-style: none;
+    background-color: green;
+}
+
+#borderShorthand{
+    width: 300px;
+    height: 300px;
+    background-color: skyblue;
+    /* border: groove 10px black; */
+    /* border-left: double 10px pink;
+    border-right: dashed 10px yellow;
+    border-bottom: ridge 30px orchid;
+    border-top: 20px green dotted;
+} */
+
+h1{
+    width: 300px;
+    border: 10px darkblue double;
+    outline: 10px lawngreen groove;
+    outline-offset: 10px;
+}
+input{
+    border: none;
+    outline: none;
+    background-color: lightcyan;
+    border-bottom: 1px solid pink;
+    
+}
